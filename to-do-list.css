@@ -1,0 +1,34 @@
+.tasklist {
+width: 50%;
+}
+.heading {
+}
+.not-to-do {
+
+}
+
+.maincontainer {
+  background: linear-gradient(90deg, red 50%, green 50%);
+  display: flex;
+   
+
+  max-width: 600px;
+  /* background-image: linear-gradient(90deg, yellow 50%, blue 50%); */
+  /* background-color: red;} */
+}
+.additem {
+  position: absolute;
+  width: 107px;
+  height: 47px;
+  border: 5px;
+  background-color: aquamarine;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.list-type1 {
+  list-style-type: square;
+}
+.list-type2 {
+  list-style-type: square;
+}
